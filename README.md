@@ -13,7 +13,7 @@ You're a  Towards Data Science Reader?  Get the code used for my articles here:
 
 #### [Visualizing Stochastic Regularization for Entity Embeddings](https://github.com/vla6/Blog_naics_nn/tree/main/_A_embeddings)
 
-##### Topics: Python / Tensorflow / tSNE / kMeans / SHAP / Entity Embeddings
+##### Topics: Python / Tensorflow / tSNE / kMeans / SHAP / Entity Embeddings / Data Visualization
 
 Pretty pictures illustrate how stochastic regularization impacts entity embeddings in neural network models.  
 
@@ -90,6 +90,22 @@ Read the article at [TDS](https://towardsdatascience.com/no-free-lunch-with-feat
 Part of a talk presented at the [ROC Data Science Meetup](https://www.meetup.com/roc-data-science/).  Demonstrates that the same fairness metric results can be seen whether a model is basing its decision on a sensitive feature, or on a legitimate predictor correlated with that feature. 
 
 Read the article at [TDS](https://towardsdatascience.com/fairness-metrics-wont-save-you-from-stereotyping-27127e220cac/) or [Medium](https://medium.com/data-science/fairness-metrics-wont-save-you-from-stereotyping-27127e220cac).
+
+
+## Other
+
+A few other miscellaneous repositories are also here.
+
+#### [Baby_Sleep](https://github.com/vla6/Baby_Sleep)
+
+##### Topics: R / Personal Data / Baby Sleep / Data Visualization / ANOVA / Autocorrelation
+
+Code for a talk presented at the [ROC Data Science Meetup](https://www.meetup.com/roc-data-science/).  After my kid was born, we tracked his sleep data for ~2 years.  He was a tough baby and so I read all the official parenting guides, which described what we "should" expect from "normal" children. The data gave me an opportunity to quantify my child's "abnormality", but I also got data sets from other parents with similar data, and found that no baby was really "normal".  Is this selection bias, or are these expert guidelines mostly nonsense?  Who knows, but it was an interesting personal data project.  I actually have even more data from another child now and may want to revisit this topic in the future...
+
+#### [Baby_Sleep](https://github.com/vla6/Baby_Sleep)
+
+##### Topics: R / Personal Data / Baby Sleep / Data Visualization / ANOVA / Autocorrelation
+
 
 
 <!--
