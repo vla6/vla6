@@ -14,7 +14,7 @@ Anderson, V. L., & Webb, W. W. (2011). Transmission electron microscopy characte
 Anderson, V.L., Ramlall, T.F., Rospigliosi, C.C., Webb, W.W. and Eliezer, D. (2010). Identification of a helical intermediate in trifluoroethanol-induced alpha-synuclein aggregation. Proceedings of the National Academy of Sciences of the United States of America 107, 18850-18855. [Read Full Text](https://www.pnas.org/doi/10.1073/pnas.1012336107)
 
 Yeh, N.-C , Strayer, D.M, Anderson, V.L., and Asplund, N. (2000).
-Superconducting-cavity-stabilized oscillators (SCSO) for precise frequency measurements. Physica B 280,557-­‐558. [Link] (https://www.sciencedirect.com/science/article/abs/pii/S0921452699018633)
+Superconducting-cavity-stabilized oscillators (SCSO) for precise frequency measurements. Physica B 280,557-­‐558. [Abstract Link](https://www.sciencedirect.com/science/article/abs/pii/S0921452699018633)
 
 
 
