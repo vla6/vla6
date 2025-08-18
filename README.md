@@ -100,7 +100,7 @@ A few other miscellaneous repositories are also here.
 
 ##### Topics: R / Personal Data / Baby Sleep / Data Visualization / ANOVA / Autocorrelation
 
-Code for a talk presented at the [ROC Data Science Meetup](https://www.meetup.com/roc-data-science/).  After my kid was born, we tracked his sleep data for ~2 years.  He was a tough baby and so I read all the official parenting guides, which described what we "should" expect from "normal" children. The data gave me an opportunity to quantify my child's "abnormality", but I also got data sets from other parents with similar data, and found that no baby was really "normal".  Is this selection bias, or are these expert guidelines mostly nonsense?  Who knows, but it was an interesting personal data project.  I actually have even more data from another child now and may want to revisit this topic in the future...
+Code for a talk presented at the [ROC Data Science Meetup](https://www.meetup.com/roc-data-science/).  After my kid was born, we tracked his sleep data for ~2 years.  He was a tough baby and so I read all the official parenting guides, which described what we "should" expect from "normal" children. The data gave me an opportunity to quantify my child's abnormality, but I also got data sets from other parents with similar data, and found that no baby was really normal.  Is this selection bias, or are these expert guidelines mostly nonsense?  Who knows, but it was an interesting personal data project.  I actually have even more data from another child now and may want to revisit this topic in the future...
 
 #### [Azure_notes](https://github.com/vla6/Azure_notes)
 
